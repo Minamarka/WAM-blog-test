@@ -10,3 +10,4 @@ A private key (Igor uses Vanity ETH; you can also use any other private key, for
 A Github account (free)
 A Forestry.io account (free)
 ENS address (optional, for better-looking URLs)
+
