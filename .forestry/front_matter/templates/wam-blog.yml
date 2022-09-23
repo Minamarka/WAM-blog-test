@@ -1,4 +1,9 @@
 ---
 label: WAM blog
 hide_body: false
-fields: []
+fields:
+- name: video
+  type: file
+  config:
+    maxSize: 64
+  label: video
